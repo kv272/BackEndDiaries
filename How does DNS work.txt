@@ -1,0 +1,3 @@
+DNS WORKS ON ALL COMPUTERS.
+SO THE BASIC IDEA IS TO MAP THE DOMAINS OF WEBSITES TO THE IP ADDRESSES OF THE SERVERS.
+there is also a cache which stores the IP addresses of the servers in the cache.

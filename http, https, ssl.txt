@@ -1,0 +1,16 @@
+1. HTTP - HYPERTEXT TRANSFER PROTOCOL
+is a protocol which can be used to transfer data between the server and the client.
+HTTP uses clear text 
+that's why it is not secure.
+
+2. HTTPs secure HYPERTEXT transfer protocol
+
+it ensures that the data which is transferred to between the server and the client is encrypted.
+
+3. SSL secure sockets layer 
+it uses public SSL certificates.
+the server sends SSL certificates to the client and the client sends them to the server.
+the client's browser can validate the server's certificate.
+
+4. TLs 
+successor to SSL.
