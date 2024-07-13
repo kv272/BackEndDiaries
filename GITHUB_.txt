@@ -1,0 +1,5 @@
+git - version control system
+github - hosting projects along with a community of developers.
+conflict - arises when a contributer has pushed some changes to thr repository after you cloned the project and now you can't commit the changes because 
+the repository is altered from what you had cloned before so you have to create a pull request before pushing the code.
+to avoid conflict.
