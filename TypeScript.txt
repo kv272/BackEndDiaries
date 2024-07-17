@@ -1,0 +1,1 @@
+typescript is solely used for type safety that is reducing number of runtime errors while writing the code.
