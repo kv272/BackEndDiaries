@@ -1,1 +1,20 @@
 typescript is solely used for type safety that is reducing number of runtime errors while writing the code.
+type user = {
+    readonly _id : number
+    name : string
+    course : string
+}
+
+let score = number | string | boolean 
+
+function func : string{
+    return "a string";
+}
+
+function func1 : {} {
+    return "an object";
+}
+
+let arr : number[] = [] // number array
+let arr : [] = [] // empty array
+let arr : [number, number] = // array with only two numbers // it's a tuple by the way

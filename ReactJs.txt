@@ -1,0 +1,14 @@
+I know this is backend diaries but hey, let's do this.
+component based architecture: component is a unit that gets rendered in the ui. components help in mantainability and re-usability.
+Virtual DOM: improves performance.
+Unidirectional dataflow: keeps data flowing in a single direction keeping it easy to debug.
+JSX syntax: it is similar to xml and html tags, easy to write and bind events in components.
+SEO performance: the SEO performance can be improved using server side rendering. 
+
+ReactStrictMode:
+identifying components with unsafe life cycles.
+warning about legacy string ref API.
+warning about deprecated findMODnode usage.
+detecting Unexpected side effects.
+detecting legacy context API.
+

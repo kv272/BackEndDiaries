@@ -1,0 +1,27 @@
+It is a javascript runtime environment
+Express is node framework used for defining API endpoints, connecting to databases adding authentication etc.
+ECMAsCRIPT 
+javascript engine is used to run javascript code 
+but The JavaScript Runtime consists of more than just javascript engine.
+
+JavaScript runtime consists of these functions:
+1. memory and call stack :
+2. WEB apis (DOM, storage, timers)
+3. TASK QUEUES 
+4. EVENT LOOP
+
+Dependencies: 
+v8 libuv
+
+source:
+c/c++ features
+
+NodeJs doesn't have access to WEB apis which the v8 engine has.
+
+Modules:
+local Modules
+builtin modules
+third-party modules
+
+CommonJS :
+commonJs is a standard which states how modules should be structured and shared.
