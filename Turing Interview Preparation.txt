@@ -1,8 +1,14 @@
-Python language fundamentals
+////// Python language fundamentals:
+
+Machine learning 
+AI 
+LLMs
 Frameworks
+Tkinter
 Python Development
 Python projects
 Data science
 Data analysis
+Python project 
 Book if i get time for this
 Github
