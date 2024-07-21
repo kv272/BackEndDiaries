@@ -1,5 +1,13 @@
 ////// Python language fundamentals:
-
+It's a loosely typed object oriented multithreaded language 
+value assignments :
+<variable name> = <value>
+integer
+string 
+float
+boolean
+None 
+In python 3 there is no limit for the integer   
 Machine learning 
 AI 
 LLMs
@@ -10,5 +18,5 @@ Python projects
 Data science
 Data analysis
 Python project 
-Book if i get time for this
+Book if i get time
 Github
