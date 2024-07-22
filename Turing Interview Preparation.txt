@@ -7,7 +7,28 @@ string
 float
 boolean
 None 
-In python 3 there is no limit for the integer   
+In python 3 there is no limit for the integer
+Collection types in python: 
+lists
+dictionary
+set 
+tuples
+defaultdict : you can assign a default value for keys that are not defined in the dictionary.
+set : 
+set.discard() :- doesn't give an error when the value is not present in the set 
+Bitwise :
+not operator :- # ~1 = 0
+
+Operator presedence: 
+PEMDAS : paranthesis, exponent, multiplication, division, addition, suntraction.
+global foo:
+
+foo = 1
+def func():
+    global foo # creating foo global changes the global value of foo too. 
+    foo = 2
+func() # you would have to call the function 
+
 Machine learning 
 AI 
 LLMs
