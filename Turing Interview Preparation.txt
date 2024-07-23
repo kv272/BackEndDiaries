@@ -1,3 +1,4 @@
+python 
 ////// Python language fundamentals:
 It's a loosely typed object oriented multithreaded language 
 value assignments :
@@ -28,6 +29,8 @@ def func():
     global foo # creating foo global changes the global value of foo too. 
     foo = 2
 func() # you would have to call the function 
+     
+print("True") if True else print("False")
 
 Machine learning 
 AI 
