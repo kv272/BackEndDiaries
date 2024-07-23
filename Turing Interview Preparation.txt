@@ -31,6 +31,15 @@ def func():
 func() # you would have to call the function 
      
 print("True") if True else print("False")
+List comprehension:
+comprehensions are syntactic constructs that are used to generate lists from other lists by applying function to each element in the list.
+Generator comprehension:
+it creates a generator object that cannot be indexed it will only be used after using another function.
+range returns a list where xrange returns a generator object.
+Decorators:
+are keywords that can be associated with a fuction to
+alter the functionality of a function without having to change the code of the decorated function.
+
 
 Machine learning 
 AI 
