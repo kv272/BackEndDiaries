@@ -39,9 +39,23 @@ range returns a list where xrange returns a generator object.
 Decorators:
 are keywords that can be associated with a fuction to
 alter the functionality of a function without having to change the code of the decorated function.
+Static methods:
+these methods are not associated with the class. self doesn't have to be mentioned. static methods are delivered with class but aren't necesaarialy associated with it.
+Generators:
+are the functions that returns an iterator to a single value or multiple value using yield.
+Flask:
+minimalistic 
+less code 
+easier
+Django:
+a lot of plugins
+orm support
+builtin dashboard
+I am Kunal verma. I live in kanpur, I have completed my bachelor's in computer science from PSIT KANPUR. I have a interest in working with backend side of things. I have worked as a freelance web developer for a chemical firm called disha chemicals.
+I have been learning python since my first year college. It was also the first languagae I learned. 
 
 
-Machine learning 
+Machine learning
 AI 
 LLMs
 Frameworks
