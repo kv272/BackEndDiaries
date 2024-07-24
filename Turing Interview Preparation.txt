@@ -52,8 +52,9 @@ a lot of plugins
 orm support
 builtin dashboard
 I am Kunal verma. I live in kanpur, I have completed my bachelor's in computer science from PSIT KANPUR. I have a interest in working with backend side of things. I have worked as a freelance web developer for a chemical firm called disha chemicals.
-I have been learning python since my first year college. It was also the first languagae I learned. 
-
+I have been learning python since my first year college. It was also the first languagae I learned.
+and I have been applying to turing for more than a year now and it also came to my college but i didn't see the job post util the deadline had passed.
+but then I got this email and that made me very happy.
 
 Machine learning
 AI 
