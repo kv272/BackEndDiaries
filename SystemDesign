@@ -1,0 +1,10 @@
+How to approach system design:
+
+Understand the problem
+Identify the scope of the system: deciding what it will do and what it will not do.
+Research exisiting system
+Create a high level design
+refine the design
+document the design
+continously monitor and improve the design
+
