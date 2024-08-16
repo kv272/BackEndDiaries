@@ -1,0 +1,4 @@
+Rest API:
+representational state transfer:
+stateless api meaning the state of the requester doesn't matter.
+this is the property which makes it simple statndardised and scalable.
