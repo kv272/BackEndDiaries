@@ -10,4 +10,6 @@ func main() {
 	for i := 0; i < 10; i++ {
 		fmt.Println(i)
 	}
+	var arr1 = []string{"a", "b", "c", "d", "e"}
+	fmt.Println(arr1)
 }
