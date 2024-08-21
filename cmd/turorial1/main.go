@@ -7,5 +7,7 @@ func main() {
 	newNum := 10
 	fmt.Println(newNum)
 	fmt.Println(intNum)
-	fmt.Println("this should work") 
+	for i := 0; i < 10; i++ {
+		fmt.Println(i)
+	}
 }
