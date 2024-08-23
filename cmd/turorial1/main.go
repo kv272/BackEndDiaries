@@ -14,4 +14,5 @@ func main() {
 	fmt.Println(arr1)
 	var myvalue string = "new string"
 	fmt.Println(myvalue)
+	fmt.Println(myvalue + "" + "hello brother")
 }
