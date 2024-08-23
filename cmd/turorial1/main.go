@@ -12,4 +12,6 @@ func main() {
 	}
 	var arr1 = []string{"a", "b", "c", "d", "e"}
 	fmt.Println(arr1)
+	var myvalue string = "new string"
+	fmt.Println(myvalue)
 }
