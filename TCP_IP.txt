@@ -1,0 +1,21 @@
+TCP/IP :
+IP(internet protocol):
+this is a poor version of internet protocols which is used for sending packets across nodes or systems.
+this packets are packed with a header and data. the header contains the important information about the destination for the 
+packet to be delivered. 
+
+TCP:
+this is built upon the internet protocol to overcome the cons of internet protocol TCP uses handshaking for transmitting packets
+the cons TCP has are:
+it loses data packets between nodes and doesn't necesarily sends packet in the order they are intended for.
+TCP overcomes this problem by using handshaking method which requires an acknowledgement for every packet sent 
+
+TCP requires a connection to be established before sending packets over the network 
+this connection is established like this 
+            sender                              reciever
+1.      SYN (synchonize)     ------------>    
+2.                           <------------      SYN ack(synchronize acknowledgement)
+3.      ACK (acknowledgement)------------>     
+
+
+this is how the connection is established.
